@@ -6,7 +6,7 @@
 
 	#end
 	#your code here
-end
+#end
 counter = 6
 until counter == 10
   puts "Wingardium Leviosa"
